@@ -1,1 +1,6 @@
-
+The dependencies for this NLP project is going to be : 
+1.Sklearn
+2.Confusion Matrix
+3.CountVectorizer
+4.Seaborn
+5.RandomTreeClassifier
